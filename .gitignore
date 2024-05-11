@@ -1,3 +1,5 @@
 sandbox/.ipynb_checkpoints
-eda/.ipynb_checkpoints
+model/eda/.ipynb_checkpoints
+model/.ipynb_checkpoints
 /sample_data
+model/*.pt
