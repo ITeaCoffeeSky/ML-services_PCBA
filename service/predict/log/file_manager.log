@@ -1,0 +1,19 @@
+__main__ 2024-06-08 23:54:42,419 INFO  
+__main__ 2024-06-08 23:54:42,419 INFO ############################################################
+__main__ 2024-06-08 23:54:42,419 INFO Start logging for module file_manager...
+__main__ 2024-06-08 23:54:53,444 INFO Watchdog received created event - ./test_files/aoi_files/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-08 23:55:02,650 INFO  
+__main__ 2024-06-08 23:55:02,651 INFO Stopping logging for module file_manager...
+__main__ 2024-06-08 23:55:02,651 INFO ############################################################
+__main__ 2024-06-08 23:55:25,455 INFO  
+__main__ 2024-06-08 23:55:25,456 INFO ############################################################
+__main__ 2024-06-08 23:55:25,456 INFO Start logging for module file_manager...
+__main__ 2024-06-08 23:55:32,201 INFO Watchdog received created event - ./test_files/aoi_files/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-08 23:55:32,235 INFO Copy status: OK
+__main__ 2024-06-08 23:55:32,235 INFO Files:  copied: ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_8-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_5-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_3-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_7-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_14-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_12-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_4-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_13-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/json_data.json, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_2-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_10-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_9-j1.jpg.
+__main__ 2024-06-08 23:56:52,178 INFO Watchdog received created event - ./test_files/aoi_files/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-08 23:56:52,212 INFO Copy status: OK
+__main__ 2024-06-08 23:56:52,212 INFO Files:  copied: ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_8-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_5-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_3-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_7-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_14-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_12-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_4-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_13-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/json_data.json, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_2-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_10-j1.jpg, ./test_files/img_files_may/2024/05/14/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_9-j1.jpg.
+__main__ 2024-06-08 23:57:39,983 INFO  
+__main__ 2024-06-08 23:57:39,983 INFO Stopping logging for module file_manager...
+__main__ 2024-06-08 23:57:39,983 INFO ############################################################

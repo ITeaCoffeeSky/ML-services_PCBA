@@ -1,0 +1,111 @@
+__main__ 2024-06-09 00:28:12,007 INFO  
+__main__ 2024-06-09 00:28:12,007 INFO ############################################################
+__main__ 2024-06-09 00:28:12,007 INFO Start logging for module main...
+__main__ 2024-06-09 00:28:17,788 INFO Watchdog received created event - ./test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 00:28:17,794 INFO Copy status: OK
+__main__ 2024-06-09 00:28:17,794 INFO Files: .
+__main__ 2024-06-09 00:28:48,149 INFO  
+__main__ 2024-06-09 00:28:48,149 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 00:28:48,149 INFO ############################################################
+__main__ 2024-06-09 00:30:16,889 INFO  
+__main__ 2024-06-09 00:30:16,889 INFO ############################################################
+__main__ 2024-06-09 00:30:16,889 INFO Start logging for module main...
+__main__ 2024-06-09 00:30:20,890 INFO Watchdog received created event - ./test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 00:30:20,897 INFO Copy status: OK
+__main__ 2024-06-09 00:30:20,897 INFO Files: .
+__main__ 2024-06-09 00:30:59,267 INFO  
+__main__ 2024-06-09 00:30:59,268 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 00:30:59,268 INFO ############################################################
+__main__ 2024-06-09 01:01:45,188 INFO  
+__main__ 2024-06-09 01:01:45,188 INFO ############################################################
+__main__ 2024-06-09 01:01:45,188 INFO Start logging for module main...
+__main__ 2024-06-09 01:01:56,666 INFO Watchdog received created event - ./test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:01:56,675 INFO Copy status: OK
+__main__ 2024-06-09 01:01:56,675 INFO Files: .
+__main__ 2024-06-09 01:06:29,083 INFO Watchdog received created event - ./test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:06:29,091 INFO Copy status: OK
+__main__ 2024-06-09 01:06:29,091 INFO Files: .
+__main__ 2024-06-09 01:07:08,636 INFO  
+__main__ 2024-06-09 01:07:08,637 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 01:07:08,637 INFO ############################################################
+__main__ 2024-06-09 01:38:04,852 INFO  
+__main__ 2024-06-09 01:38:04,852 INFO ############################################################
+__main__ 2024-06-09 01:38:04,852 INFO Start logging for module main...
+__main__ 2024-06-09 01:38:16,488 INFO Watchdog received created event - ./test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:38:17,061 INFO No response from predict server 500
+__main__ 2024-06-09 01:38:17,061 INFO Copy status: OK
+__main__ 2024-06-09 01:38:17,061 INFO Files: .
+__main__ 2024-06-09 01:44:06,311 INFO  
+__main__ 2024-06-09 01:44:06,311 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 01:44:06,311 INFO ############################################################
+__main__ 2024-06-09 01:47:37,862 INFO  
+__main__ 2024-06-09 01:47:37,862 INFO ############################################################
+__main__ 2024-06-09 01:47:37,862 INFO Start logging for module main...
+__main__ 2024-06-09 01:48:07,414 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:48:08,766 INFO Copy status: OK
+__main__ 2024-06-09 01:48:08,766 INFO Files: .
+__main__ 2024-06-09 01:52:10,866 INFO  
+__main__ 2024-06-09 01:52:10,866 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 01:52:10,866 INFO ############################################################
+__main__ 2024-06-09 01:52:21,181 INFO  
+__main__ 2024-06-09 01:52:21,181 INFO ############################################################
+__main__ 2024-06-09 01:52:21,181 INFO Start logging for module main...
+__main__ 2024-06-09 01:52:30,991 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:52:31,001 INFO Copy status: OK
+__main__ 2024-06-09 01:52:31,001 INFO Files: .
+__main__ 2024-06-09 01:54:16,297 INFO  
+__main__ 2024-06-09 01:54:16,297 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 01:54:16,297 INFO ############################################################
+__main__ 2024-06-09 01:54:18,604 INFO  
+__main__ 2024-06-09 01:54:18,604 INFO ############################################################
+__main__ 2024-06-09 01:54:18,604 INFO Start logging for module main...
+__main__ 2024-06-09 01:54:32,387 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:54:33,324 INFO Copy status: OK
+__main__ 2024-06-09 01:54:33,324 INFO Files: .
+__main__ 2024-06-09 01:55:58,168 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 01:55:59,079 INFO Copy status: OK
+__main__ 2024-06-09 01:55:59,079 INFO Files: .
+__main__ 2024-06-09 01:59:48,561 INFO  
+__main__ 2024-06-09 01:59:48,562 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 01:59:48,562 INFO ############################################################
+__main__ 2024-06-09 01:59:50,823 INFO  
+__main__ 2024-06-09 01:59:50,823 INFO ############################################################
+__main__ 2024-06-09 01:59:50,823 INFO Start logging for module main...
+__main__ 2024-06-09 01:59:59,574 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 02:00:00,108 INFO Copy status: OK
+__main__ 2024-06-09 02:00:00,108 INFO Files: .
+__main__ 2024-06-09 02:01:33,878 INFO  
+__main__ 2024-06-09 02:01:33,878 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 02:01:33,878 INFO ############################################################
+__main__ 2024-06-09 02:01:35,593 INFO  
+__main__ 2024-06-09 02:01:35,594 INFO ############################################################
+__main__ 2024-06-09 02:01:35,594 INFO Start logging for module main...
+__main__ 2024-06-09 02:01:42,305 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 02:02:11,483 INFO  
+__main__ 2024-06-09 02:02:11,483 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 02:02:11,483 INFO ############################################################
+__main__ 2024-06-09 02:02:12,708 INFO  
+__main__ 2024-06-09 02:02:12,708 INFO ############################################################
+__main__ 2024-06-09 02:02:12,708 INFO Start logging for module main...
+__main__ 2024-06-09 02:02:19,182 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 02:02:19,735 INFO Copy status: OK
+__main__ 2024-06-09 02:02:19,735 INFO Files: .
+__main__ 2024-06-09 02:02:40,223 INFO  
+__main__ 2024-06-09 02:02:40,223 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 02:02:40,223 INFO ############################################################
+__main__ 2024-06-09 02:02:41,604 INFO  
+__main__ 2024-06-09 02:02:41,604 INFO ############################################################
+__main__ 2024-06-09 02:02:41,604 INFO Start logging for module main...
+__main__ 2024-06-09 02:02:47,154 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 02:02:47,771 INFO Copy status: OK
+__main__ 2024-06-09 02:02:47,771 INFO Files: .
+__main__ 2024-06-09 02:08:09,751 INFO  
+__main__ 2024-06-09 02:08:09,751 INFO Stopping logging for module file_manager...
+__main__ 2024-06-09 02:08:09,751 INFO ############################################################
+__main__ 2024-06-09 02:08:10,941 INFO  
+__main__ 2024-06-09 02:08:10,941 INFO ############################################################
+__main__ 2024-06-09 02:08:10,941 INFO Start logging for module main...
+__main__ 2024-06-09 02:08:18,658 INFO Watchdog received created event - /home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/Y0L2A44AIV01Z#IOBBMC781002A_B#V510#D-SMT-AOI-51#1#1715687203000#PostRepair#1715687328000.xml.
+__main__ 2024-06-09 02:08:19,188 INFO Prediction values: [{'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_2-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_3-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_4-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_5-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_7-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_8-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_9-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_10-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_12-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_13-j1.jpg': 1}, {'/home/ilya/HSE/ML-services_PCBA/service/test_files/file_buffer/D-SMT-AOI-51[@$@]2024-05-14-14-46-55/E_4860_14-j1.jpg': 1}]
+__main__ 2024-06-09 02:08:19,188 INFO Copy status: OK
+__main__ 2024-06-09 02:08:19,188 INFO Files: .

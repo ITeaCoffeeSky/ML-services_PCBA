@@ -1,0 +1,29 @@
+inference 2024-06-09 01:37:34,946 INFO Start logging for module inference...
+inference 2024-06-09 01:48:01,611 INFO Start logging for module inference...
+inference 2024-06-09 01:48:08,762 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 01:48:08,763 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 01:48:08,763 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 01:52:17,186 INFO Start logging for module inference...
+inference 2024-06-09 01:54:23,851 INFO Start logging for module inference...
+inference 2024-06-09 01:54:33,321 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 01:54:33,321 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 01:54:33,321 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 01:55:50,316 INFO Start logging for module inference...
+inference 2024-06-09 01:55:59,075 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 01:55:59,075 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 01:55:59,076 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 02:00:00,104 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 02:00:00,104 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 02:00:00,105 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 02:01:42,918 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 02:01:42,918 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 02:01:42,918 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 02:02:19,731 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 02:02:19,731 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 02:02:19,731 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 02:02:47,753 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 02:02:47,753 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 02:02:47,753 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+inference 2024-06-09 02:08:19,184 INFO Model used: EfV2L_model_base_v1
+inference 2024-06-09 02:08:19,184 INFO Results: accuracy = 1.0, recall = 1.0, precision = 1.0
+inference 2024-06-09 02:08:19,184 INFO Model out values: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]

@@ -2,7 +2,9 @@ sandbox/.ipynb_checkpoints
 model/eda/.ipynb_checkpoints
 model/.ipynb_checkpoints
 /sample_data
-model/*.pt
+/service/test_files
 model/eda/model_base_10e/*
 model/eda/EfV2L_noaug_10e_base_shfld_v1/*
+**/__pycache__/
+*.pt
 
